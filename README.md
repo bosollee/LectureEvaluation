@@ -1,4 +1,4 @@
 # LectureEvaluation
 Lecture Evaluation Web
-Java Jsp Tomcat MySQL
-http://localhost:8080/Lecture_Evaluation/index.jsp
+<br>Java Jsp Tomcat MySQL
+<br>http://localhost:8080/Lecture_Evaluation/index.jsp
