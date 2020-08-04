@@ -1,4 +1,13 @@
-# LectureEvaluation
+# Lecture Evaluation Web
+
 Lecture Evaluation Web
-<br>Java Jsp Tomcat MySQL
-<br>http://localhost:8080/Lecture_Evaluation/index.jsp
+<br>Java, Jsp, Tomcat, MySQL
+
+## Features
+
+Lecture evaluation, search, recommendation, delete, report
+<br>Sign in, Login, Logout, Email Authentication
+
+## Try it out(Expected)
+
+https://leegitb.github.io/lecture-evaluation-web-java/
